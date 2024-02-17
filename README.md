@@ -1,2 +1,2 @@
 Working to deploy :).
-Have some limitations 
+Have some limitations.
